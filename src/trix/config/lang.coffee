@@ -8,6 +8,7 @@ Trix.config.lang =
   code: "Code"
   heading1: "Heading"
   indent: "Increase Level"
+  image: "Upload image"
   italic: "Italic"
   link: "Link"
   numbers: "Numbers"
